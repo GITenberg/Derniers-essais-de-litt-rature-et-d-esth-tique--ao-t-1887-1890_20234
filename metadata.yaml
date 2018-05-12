@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Oscar_Wilde
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20234#Derniers-essais-de-litt-rature-et-d-esth-tique--ao-t-1887-1890
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-12-31'
 gutenberg_type: Text
